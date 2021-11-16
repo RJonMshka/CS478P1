@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="welcome_text">Welcome User!</string>
+    <string name="button_one_text">Button One</string>
+    <string name="button_two_text">Button Two</string>
+    <string name="prompt_user_text">Please enter your Full Name</string>
+    <string name="full_name_placeholder">Full Name</string>
+    <string name="success_text">success</string>
+    <string name="failure_text">failure</string>
+    <string name="failure_toast_msg_prefix">You have entered an invalid name: </string>
+</resources>
